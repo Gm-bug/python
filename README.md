@@ -5,7 +5,9 @@
 <hr>
 <img src="https://skillicons.dev/icons?i=discord" height="90" width="90">
 
-[<h2>Bot do Discord em Python</h2>](https://github.com/Gm-bug/python/blob/main/botzin.py)
+<h2>Bot do Discord em Python</h2>
+
+[o bot](https://github.com/Gm-bug/python/blob/main/botzin.py)
 
 Projeto inicial com `discord.py` e slash commands `/ping` e `/oi`.
 <h2>O que você precisa</h2>
